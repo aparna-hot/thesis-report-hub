@@ -1,2 +1,6 @@
-# thesis-report-hub
-My Report
+# My Thesis Report for Master TICE
+
+----
+
+Author: Aparna Chatterjee
+
